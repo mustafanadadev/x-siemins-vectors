@@ -1,0 +1,6 @@
+@x_siemens_task_HostAddress = http://localhost:5133
+
+GET {{x_siemens_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
